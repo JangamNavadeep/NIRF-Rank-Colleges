@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NIRF Rank Colleges</string>
+
+    <!-- Array of domain options for Spinner -->
+    <string-array name="domain_options">
+        <item>Engineering</item>
+        <item>Medical</item>
+        <!-- Add more domains if needed -->
+    </string-array>
+</resources>
