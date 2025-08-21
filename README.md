@@ -9,7 +9,7 @@ This project collects, processes, and presents college rankings based on NIRF da
 - Display top-ranked colleges in India.
 - Filter colleges by state, category, and ranking.
 - Search for a specific college by name.
-- Visualize ranking trends (if applicable).
+
 
 ## Installation
 1. Clone the repository:
